@@ -1,0 +1,6 @@
+
+Emran Afg
+1 week ago
+.\netbeans-8.2-javase-windows.exe --extract netbeans
+ java -jar netbeans\bundle.jar
+try the upper command and instead of .\netbeans-8.2-javase-windows.exe use your netbeans exe file path?
